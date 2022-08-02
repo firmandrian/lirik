@@ -5,4 +5,3 @@ Teknologi yang digunakan :
 3. HTML
 
 Project ini hanya untuk hiburan semata
-   #apahayo
