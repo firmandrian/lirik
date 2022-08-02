@@ -1,0 +1,2 @@
+# lirik
+Teknologi yang digunakan
